@@ -7,8 +7,7 @@ Aqui estão alguns dos tópicos abordados nos projetos deste repositório:
 - 🌱 **APIs RESTful:** Criação de endpoints, métodos HTTP, e boas práticas.
 - 🛠️ **Integração com Banco de Dados:** JPA, Hibernate, e conexão com MySQL.
 - 🔒 **Autenticação e Autorização:** Spring Security e JWT.
-- ✨ **Boas Práticas de Desenvolvimento:** Organização de código e uso de padrões.
 - 📚 **Outros Conceitos:** Dependências do Maven, injeção de dependência, etc.
 
 ## Projetos
-- **01-Product Manager API**
+- **01-Product Manager API**: [Veja os detalhes](01-Product-Manager-API/README.md)
