@@ -1,4 +1,4 @@
-# Produtos API
+# Product Manager API
 
 Este projeto é uma API REST simples para gerenciamento de produtos, desenvolvida com **Spring Boot**.
 
