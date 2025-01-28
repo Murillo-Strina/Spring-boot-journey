@@ -10,4 +10,4 @@ Aqui estão alguns dos tópicos abordados nos projetos deste repositório:
 - 📚 **Outros Conceitos:** Dependências do Maven, injeção de dependência, etc.
 
 ## Projetos
-- **01-Product Manager API**: [Veja os detalhes](01-Product-Manager-API/README.md)
+- **01-Product Manager API**: [Veja os detalhes](produtosapi/README.md)
