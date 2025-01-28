@@ -1,2 +1,14 @@
-# Spring-boot-journey
-Repositório com projetos desenvolvidos durante minha jornada de aprendizado em Spring Boot. Aqui você encontrará exemplos e aplicações práticas que exploram conceitos fundamentais e avançados do framework, como APIs REST, banco de dados, segurança, e muito mais.
+# Spring Boot Journey 🚀
+
+Este repositório contém projetos que desenvolvi enquanto aprendia Spring Boot. A ideia é compartilhar o progresso desta jornada.
+
+## Conteúdo
+Aqui estão alguns dos tópicos abordados nos projetos deste repositório:
+- 🌱 **APIs RESTful:** Criação de endpoints, métodos HTTP, e boas práticas.
+- 🛠️ **Integração com Banco de Dados:** JPA, Hibernate, e conexão com MySQL.
+- 🔒 **Autenticação e Autorização:** Spring Security e JWT.
+- ✨ **Boas Práticas de Desenvolvimento:** Organização de código e uso de padrões.
+- 📚 **Outros Conceitos:** Dependências do Maven, injeção de dependência, etc.
+
+## Projetos
+- **01-Product Manager API**
