@@ -1,0 +1,14 @@
+spring:
+    application:
+        name: Automaker
+    jpa:
+        show-sql: true
+    main: 
+      lazy-initialization: false
+
+app:
+    automaker:
+        default-engine: 130
+    config:
+        variable: X
+        value1: 600
