@@ -11,5 +11,5 @@ Aqui estão alguns dos tópicos abordados nos projetos deste repositório:
 
 ## Projetos
 - **01-Product Manager API**: [Veja os detalhes](produtosapi)
-- **02-Montadora API**: [Veja os detalhes](02-Montadora%20API)
+- **02-Montadora API**: [Veja os detalhes](montadora-api)
 
