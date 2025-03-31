@@ -12,4 +12,4 @@ Aqui estão alguns dos tópicos abordados nos projetos deste repositório:
 ## Projetos
 - **01-Product Manager API**: [Veja os detalhes](produtosapi)
 - **02-Montadora API**: [Veja os detalhes](montadora-api)
-
+- **03-Library API**: [Veja os detalhes](libraryapi)
