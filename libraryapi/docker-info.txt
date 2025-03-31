@@ -1,0 +1,16 @@
+Database - PostgreSQL
+Image: postgres:latest
+Container ID: 2100a82fa81b
+Port: 5432 (mapped to 32768 on the local machine)
+Container Name: librarydb
+
+docker run --name librarydb -p 32768:5432 -e POSTGRES_PASSWORD=<SENHA_SEGURA> -e POSTGRES_USER=example -e POSTGRES_DB=library --network library-network postgres:latest
+
+pgAdmin 4
+Image: dpage/pgadmin4:latest
+Container ID: 36f8e40729fa
+Port: 80 (mapped to 15432 on the local machine)
+Container Name: pgadmin4
+Access via browser: http://localhost:15432
+
+docker run --name pgadmin4 -p 15432:80 -e PGADMIN_DEFAULT_EMAIL=<EMAIL_EXEMPLO>@gmail.com -e PGADMIN_DEFAULT_PASSWORD=<SENHA_SEGURA> --network library-network dpage/pgadmin4
